@@ -1,0 +1,22 @@
+{
+  "name": "gondel-weather-notification",
+  "version": "1.0.0",
+  "description": "First Gondel's project with easy sum",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gondelz19/gondel-weather-notification"
+  },
+  "keywords": ["sum", "add", "tong", "cong"],
+  "author": "Gondel",
+  "license": "ISC",
+  "dependencies": {
+    "sum-gondel": "^1.0.0",
+    "zod": "3.22.4",
+    "axios": "^0.21.1",
+    "dotenv": "^8.2.0"
+  }
+}
